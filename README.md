@@ -13,4 +13,4 @@ Program tries to iterate through numbers from 1 to X and run cycle with conditio
 
 > Current battle station : Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz 1.99 GHz
 
-From 1 to 10e10 -> seconds
+From 1 to 10e10 -> 181 seconds
