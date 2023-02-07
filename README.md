@@ -9,7 +9,7 @@ Program tries to iterate through numbers from 1 to X and run cycle with conditio
 - If number is even, then divided by 2
 - If resulted number is 1, then cycle ends
 
-##Current 
+## Current reseult
 
 > Current battle station : Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz 1.99 GHz
 
